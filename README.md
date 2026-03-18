@@ -119,5 +119,3 @@ Master’s in Computer Science
 **Thrisha Reddy Kumbam**  
 Master’s Student – Computer Science  
 SUNY Polytechnic Institute  
-```
-The repository contains the following files:
