@@ -84,7 +84,7 @@ music-mood-prediction-ml
 ## How to Run
 
 Clone the repository:
-git clone <repo-url>
+git clone "repo-url"
 
 cd music-mood-prediction-ml
 
